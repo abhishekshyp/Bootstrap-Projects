@@ -1,5 +1,5 @@
 # LoopLAB Project
-Sampple Bootstrap Project
+Sample Bootstrap Project
 
 # Technologies Used
 - HTML
@@ -15,9 +15,10 @@ Sampple Bootstrap Project
 - (Will Update Soon)
 
 # Project Images
-<img src="https://1.bp.blogspot.com/-ylm7M9blE-k/YLhsFggauZI/AAAAAAAAERE/aBRSw_Rq05oKfGQXp_RcN2TwWmvvGCSDACLcBGAsYHQ/w640-h314/PIC%2B1.png" alt="Mouse Move Shadow Project in JavaScript">
+![Loop Lab Project](https://user-images.githubusercontent.com/71214929/167399549-01e7e04e-fece-4b53-b954-c4e986c01223.png)
 
-<img src="https://1.bp.blogspot.com/-dbzXsXNPjVU/YLhsFoAOMOI/AAAAAAAAERA/P1qYJNogbJYop1Qsxqf8ReUwjjIcznVXQCLcBGAsYHQ/w640-h316/PIC%2B2.png" alt="Mouse Move Shadow Project in JavaScript">
+
+![Loop Lab Project 1](https://user-images.githubusercontent.com/71214929/167399567-04d4b1f0-4f75-403a-b26e-d97f61576c95.png)
 
 # Contact
 - Name: Abhishek Kashyap
