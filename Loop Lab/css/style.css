@@ -1,0 +1,45 @@
+body {
+    background: #fff;
+}
+
+.navbar {
+    border-bottom: #00a7e1 2px solid;
+}
+
+.navbar .navbar-toggler-icon {
+    color: black;
+}
+
+#home-section {
+    background: url(../img/home.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 95vh;
+    overflow: hidden;
+}
+
+#home-section .dark-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 95vh;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+#home-section .home-inner {
+    padding-top: 140px;
+}
+
+#home-section .fas {
+    color: #008ed6;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#explore-section {
+    padding: 100px 0;
+}
