@@ -10,6 +10,7 @@ Sample Bootstrap Project for Portfolio Website
 - Basic Web Template using Boostrap 4.0
 - Smooth Scrolling
 - Single Page Website with multiple sections
+- Fully Responsive
 
 # Project Link
 - (Will Update Soon)
